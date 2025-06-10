@@ -5,7 +5,6 @@ Smart Medical Imaging AI is an artificial intelligence system for analyzing medi
 
 ## Features
 - **Medical Image Analysis:** Deep learning model for classifying medical images.
-- **Grad-CAM Visualization:** Visual explanations for model predictions.
 - **PDF Report Generation:** Automated creation of diagnostic reports.
 - **Interactive Assistant:** AI-powered assistant for user queries.
 - **Streamlit UI:** User-friendly web interface for uploading images and viewing results.
@@ -35,7 +34,7 @@ src/
 ├── assistant/
 │   └── assistant.py        # Interactive assistant logic
 ├── model/
-│   ├── gradcam.py          # Grad-CAM visualization
+│   ├── gradcam.py
 │   ├── model.h5            # Trained model weights
 ├── utils/
 │   ├── pdf_report.py       # PDF report generation
