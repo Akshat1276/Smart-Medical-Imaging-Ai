@@ -8,6 +8,7 @@ Smart Medical Imaging AI is an artificial intelligence system for analyzing medi
 - **PDF Report Generation:** Automated creation of diagnostic reports.
 - **Interactive Assistant:** AI-powered assistant for user queries.
 - **Streamlit UI:** User-friendly web interface for uploading images and viewing results.
+- **Fracture-detection** Could be added by training model with better dataset which isn't accessible yet
 
 ## Installation
 
